@@ -110,4 +110,8 @@ public class steps {
 		    }
 	    }	
 	}
+	
+	public void show(){
+	   int ab = 100;	
+	}
 }
