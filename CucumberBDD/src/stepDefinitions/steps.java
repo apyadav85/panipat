@@ -112,6 +112,7 @@ public class steps {
 	}
 	
 	public void show(){
+	   System.out.println("Hello");  	
 	   int ab = 100;	
 	}
 }
